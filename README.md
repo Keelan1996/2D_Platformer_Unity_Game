@@ -2,7 +2,7 @@
 
 <br>
 
-## The following Youtube Link is to my demonstration of what the game is like and how I made it. [Please Click Here](https://www.youtube.com/watch?v=8aa8d8bhbPE)
+## The following Youtube Link is to my demonstration of what the game is like and how I made it. [Please Click Here For My Video](https://www.youtube.com/watch?v=8aa8d8bhbPE)
 
 <br>
 
