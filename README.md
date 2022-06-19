@@ -6,5 +6,10 @@
 
 <br>
 
+## This is the Design Document PDF I had to create before developing the game: [Keelan_Duddy.pdf](https://github.com/Keelan1996/2D_Platformer_Unity_Game/files/8934583/Keelan_Duddy.pdf)
+
+<br>
+
+
 3RD Year Software Development @ Atlantic Technological University :  Unity 2D Platform Game for  MOBILE APPLICATIONS DEVELOPMENT 2 .
 
